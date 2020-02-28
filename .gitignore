@@ -1,0 +1,16 @@
+*.sln
+*.dll
+*.exe
+*.ilk
+*.pdb
+*.vcxproj
+*.config
+*.filters
+*.user
+*.txt
+*.html
+x64/
+packages/
+Debug/
+Release/
+.vs/
